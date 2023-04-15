@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e8b458f.css",
+    "main.js": "/static/js/main.10d0d0f5.js",
+    "static/js/787.adf013f3.chunk.js": "/static/js/787.adf013f3.chunk.js",
+    "static/media/chart_demo.png": "/static/media/chart_demo.06008865259b73510a26.png",
+    "static/media/carbon_card_bg.png": "/static/media/carbon_card_bg.689188a98b05e10c5a59.png",
+    "index.html": "/index.html",
+    "main.6e8b458f.css.map": "/static/css/main.6e8b458f.css.map",
+    "main.10d0d0f5.js.map": "/static/js/main.10d0d0f5.js.map",
+    "787.adf013f3.chunk.js.map": "/static/js/787.adf013f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e8b458f.css",
+    "static/js/main.10d0d0f5.js"
+  ]
+}
